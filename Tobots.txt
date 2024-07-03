@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ysrsth.github.io/wearekhueraorakkanep14/sitemap.xml
